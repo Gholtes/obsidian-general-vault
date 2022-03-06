@@ -1,0 +1,7 @@
+User’s playlists tend to be chronologically organised by the date when a song is added, which does not typically lead to a well ordered playback. When seeking to improve this order, it helps to reframe the problem as “what order should we play the songs such that every subsequent song is acceptably similar to the previous song”.
+
+One shortcut to determine how similar two songs is to use audio analysis data, which often includes measurements of tempo, key, as well as more subjective measures such as “danceability” and “acousticness” which capture the sound and mood of the song. If a set of these measures are stored as vectors for each song, the similarity between songs can be quantified as the distance between these vectors, with various dimensions weighted by relative importance.
+
+The task of ordering the songs of the playlist to minimise the sum of the distance between sequential songs is version of the [[travelling salesperson problem]] or TSP, which seeks find a route between cities that minimise the total distance traveled. The only major difference is that instead of a two dimensional real-world space, we have an arbitrary number of dimensions in the song vectors.
+
+#routefinding

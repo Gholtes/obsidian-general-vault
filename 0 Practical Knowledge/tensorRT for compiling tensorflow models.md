@@ -1,0 +1,3 @@
+Nvidia's TensorRT framework is well integrated with tensorflow, which makes it easy to compile tensorflow models for deployment to specific use cases and hardware enviroments. This model compile process can greatly decrease the forward pass latency of the model and also allows for the addition of common performance increasing techniques such as batching and quantisation. 
+
+#tensorflow #MLdeployment #computervision 

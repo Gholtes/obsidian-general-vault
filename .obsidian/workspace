@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "f8b1002d2e1febb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "081e2b6000746557",
+        "type": "split",
+        "children": [
+          {
+            "id": "2d30aeca2f34bb9e",
+            "type": "leaf",
+            "dimension": 64.58583433373349,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Ideas/CNN layer activations to provide embeddings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e50a8fe13e139bea",
+            "type": "leaf",
+            "dimension": 35.414165666266506,
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df9b17540df3b38a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d3d366f97bd1374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61d8689407886533",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcb972f0b134f0ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61beee85e6b354ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c82223ff699c30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235eec2fa4d88739",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08a01b65b0c854ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e50a8fe13e139bea",
+  "lastOpenFiles": [
+    "1 Ideas/Gram matricies.md",
+    "1 Ideas/Playlist ordering as a TSP.md",
+    "1 Ideas/Street cleaning is an interesting route finding problem.md",
+    "0 Practical Knowledge/tensorRT for compiling tensorflow models.md",
+    "0 Practical Knowledge/Python multiprocessing and named pipes.md",
+    "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
+    "0 Practical Knowledge/TF serving runs a model as a server.md",
+    "1 Ideas/Computer vision techniques can be applied to cyclic voltammetry.md",
+    "1 Ideas/CNN layer activations to provide embeddings.md",
+    "1 Ideas/Statistical physics can be applied to social sciences.md"
+  ]
+}

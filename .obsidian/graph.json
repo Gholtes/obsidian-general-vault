@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"1 Ideas\"",
+      "color": {
+        "a": 1,
+        "rgb": 246272
+      }
+    },
+    {
+      "query": "path:\"0 Practical Knowledge\"",
+      "color": {
+        "a": 1,
+        "rgb": 7704755
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.324964887640449,
+  "repelStrength": 9.19485294117647,
+  "linkStrength": 1,
+  "linkDistance": 220,
+  "scale": 0.1300648141207663,
+  "close": false
+}
