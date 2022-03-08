@@ -1,10 +1,10 @@
-Named pipes / FIFOs provide a queue mechanism that is more performant than the Python implimentation of queue or pipe. The native method uses python's "pickle" serialisation to pass objects between processes, which conviniently allows any Python object to be passed. However, the process of pickling the object is computationally intensive and renders queues useless for large objects such as image arrays.
+Named pipes / FIFOs provide a queue mechanism that is more performant than the Python implementation of queue or pipe. The native method uses python's "pickle" serialisation to pass objects between processes, which conveniently allows any Python object to be passed. However, the process of pickling the object is computationally intensive and renders queues useless for large objects such as image arrays.
 
 Using os level named pipes or FIFOS is much more performant, but requires the developer to convert their message to bytes and restricts max message length to the system page size.
 
-#programmingparadigm 
+#programming-paradigm 
 
-This can be useful when the developer needs low level control over the multiprocessing implimentation, unlike in [[ReactiveX - asynchronous programming API]] where these details are abstracted away.
+This can be useful when the developer needs low level control over the multiprocessing implementation, unlike in [[ReactiveX - asynchronous programming API]] where these details are abstracted away.
 
 ### Sample code
 ```

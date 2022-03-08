@@ -10,11 +10,11 @@
           {
             "id": "2d30aeca2f34bb9e",
             "type": "leaf",
-            "dimension": 64.58583433373349,
+            "dimension": 60.38415366146459,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Ideas/CNN layer activations to provide embeddings.md",
+                "file": "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,7 +23,7 @@
           {
             "id": "e50a8fe13e139bea",
             "type": "leaf",
-            "dimension": 35.414165666266506,
+            "dimension": 39.61584633853541,
             "pinned": true,
             "state": {
               "type": "graph",
@@ -88,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e50a8fe13e139bea",
+  "active": "2d30aeca2f34bb9e",
   "lastOpenFiles": [
-    "1 Ideas/Gram matricies.md",
-    "1 Ideas/Playlist ordering as a TSP.md",
-    "1 Ideas/Street cleaning is an interesting route finding problem.md",
-    "0 Practical Knowledge/tensorRT for compiling tensorflow models.md",
-    "0 Practical Knowledge/Python multiprocessing and named pipes.md",
     "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
-    "0 Practical Knowledge/TF serving runs a model as a server.md",
+    "1 Ideas/The Physical Modelling of Human Social Systems.md",
+    "1 Ideas/Street cleaning is an interesting route finding problem.md",
+    "1 Ideas/Statistical physics can be applied to social sciences.md",
+    "1 Ideas/Playlist ordering as a TSP.md",
+    "1 Ideas/Phase diagrams for exploring non-conventional solution spaces.md",
+    "1 Ideas/Gram matricies.md",
     "1 Ideas/Computer vision techniques can be applied to cyclic voltammetry.md",
     "1 Ideas/CNN layer activations to provide embeddings.md",
-    "1 Ideas/Statistical physics can be applied to social sciences.md"
+    "1 Ideas/Academic language is becoming more homogenous.md"
   ]
 }
