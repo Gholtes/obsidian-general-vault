@@ -1,4 +1,4 @@
-Intermediate layer activations in CNNs can be used to provide image similarity embeddings. This is a simple method with a number of key limitations.
+Intermediate layer activations in CNNs can be used to provide image similarity embeddings. The similarity between images can be computed as the [[cosine similairity]] or other measure. This is a simple method with a number of key limitations. 
 
 1. The embeddings can be extremely large
 2. CNN layer activations preserve spacial information, so the same image that is offset spatially or resized will produce a very different embedding.

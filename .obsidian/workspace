@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
+                "file": "1 Ideas/What the minimum apartment would look like.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
+                "file": "1 Ideas/What the minimum apartment would look like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
+                "file": "1 Ideas/What the minimum apartment would look like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +120,15 @@
   },
   "active": "2d30aeca2f34bb9e",
   "lastOpenFiles": [
-    "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
-    "1 Ideas/The Physical Modelling of Human Social Systems.md",
+    "1 Ideas/What the minimum apartment would look like.md",
+    "0 Practical Knowledge/There have been some attempts to extarct floor plans with computer vision.md",
+    "1 Ideas/14,495 flats.md",
+    "1 Ideas/The minimum is the new norm.md",
+    "1 Ideas/The homes we inhabit impose constraints on our lives.md",
     "1 Ideas/Street cleaning is an interesting route finding problem.md",
-    "1 Ideas/Statistical physics can be applied to social sciences.md",
-    "1 Ideas/Playlist ordering as a TSP.md",
-    "1 Ideas/Phase diagrams for exploring non-conventional solution spaces.md",
-    "1 Ideas/Gram matricies.md",
-    "1 Ideas/Computer vision techniques can be applied to cyclic voltammetry.md",
-    "1 Ideas/CNN layer activations to provide embeddings.md",
-    "1 Ideas/Academic language is becoming more homogenous.md"
+    "1 Ideas/Sound reconstruction on other sources through fourier transforms.md",
+    "1 Ideas/There is a lack of tools to measure the interiors of the built world.md",
+    "14495 flats (2022).md",
+    "1 Ideas/Social metastable states.md"
   ]
 }

@@ -3,5 +3,6 @@
   "livePreview": true,
   "fileSortOrder": "alphabetical",
   "promptDelete": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
