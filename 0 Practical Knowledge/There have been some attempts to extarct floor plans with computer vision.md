@@ -4,7 +4,7 @@ There have been some attempts to extract floor plans with #computervision  techn
 
 The techniques used tend to be either:
 - [[Hough line detection]] + post processing
-- [[Semantic segmentation]] + post processing 
+- [[semantic segmentation]] + post processing 
 
 #### Papers
 - [https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Deep_Floor_Plan_Recognition_Using_a_Multi-Task_Network_With_Room-Boundary-Guided_ICCV_2019_paper.pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Deep_Floor_Plan_Recognition_Using_a_Multi-Task_Network_With_Room-Boundary-Guided_ICCV_2019_paper.pdf)

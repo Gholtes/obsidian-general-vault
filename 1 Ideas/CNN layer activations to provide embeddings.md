@@ -6,3 +6,4 @@ Intermediate layer activations in CNNs can be used to provide image similarity e
 These limitations are reduced by using [[Gram matricies]] which use correlations between kernel activations to provide style embeddings that are less sensitive to spacial chances. 
 
 #computervision 
+#imagesimilarity
