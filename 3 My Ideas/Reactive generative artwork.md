@@ -1,0 +1,6 @@
+Inspired by [[Public APIs can be used to modulate a website's appearance]], it would be interesting to use a similar approach in live #generative artwork. This idea was used in a submission to the 2022 SIGNAL Screen X Sound commission.
+
+### Project Proposal
+*The project addresses the evolutionary and biological nature of the built and digital worlds. The work is a visualisation of simulated single celled organisms (cellular automata) where the characteristics of the organisms and their environment is manipulated by live or recorded data feeds from Melbourne. This will allow the physical and digital worlds to directly impact the evolution of the work over time, resulting in the work becoming an abstract visualization of the ebb and flow of the world we inhabit. 
+
+*The technical requirements for this work are well understood. Cellular automata have been explored by a range of visual artists and scientists and there is a wealth of materials to draw upon in the development of the “organisms” for this project. Appropriate live and historical data feeds are available through the City of Melbourne Open Data program, which can be supplemented by other sources to provide weather data, social media activity and financial information.

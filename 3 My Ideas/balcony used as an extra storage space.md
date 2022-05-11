@@ -1,0 +1,1 @@
+A documentation of this phenomenon would be an interesting and simple art project 

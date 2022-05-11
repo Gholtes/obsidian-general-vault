@@ -18,7 +18,14 @@
       "query": "path:\"0 Practical Knowledge\"",
       "color": {
         "a": 1,
-        "rgb": 7704755
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"3 My Ideas\"",
+      "color": {
+        "a": 1,
+        "rgb": 28415
       }
     }
   ],
@@ -28,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.30677083333333,
   "collapse-forces": false,
-  "centerStrength": 0.373697916666667,
-  "repelStrength": 10.8723958333333,
-  "linkStrength": 0.812779017857143,
-  "linkDistance": 214,
-  "scale": 0.1077352137676684,
+  "centerStrength": 0.363560267857143,
+  "repelStrength": 11.2779017857143,
+  "linkStrength": 1,
+  "linkDistance": 209,
+  "scale": 0.3330261592675935,
   "close": false
 }

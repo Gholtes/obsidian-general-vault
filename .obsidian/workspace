@@ -10,11 +10,11 @@
           {
             "id": "83f808ee1d2fa42c",
             "type": "leaf",
-            "dimension": 61.34453781512605,
+            "dimension": 56.30252100840336,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Ideas/Fourier Transfroms of images can be used in pattern recognition.md",
+                "file": "1 Ideas/WAMI.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,7 +23,7 @@
           {
             "id": "4df322a77764d470",
             "type": "leaf",
-            "dimension": 38.655462184873954,
+            "dimension": 43.69747899159664,
             "pinned": true,
             "state": {
               "type": "graph",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Ideas/Fourier Transfroms of images can be used in pattern recognition.md",
+                "file": "1 Ideas/WAMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Ideas/Fourier Transfroms of images can be used in pattern recognition.md",
+                "file": "1 Ideas/WAMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +120,15 @@
   },
   "active": "83f808ee1d2fa42c",
   "lastOpenFiles": [
-    "1 Ideas/Fourier Transfroms of images can be used in pattern recognition.md",
-    "1 Ideas/Public APIs can be used to modulate a website's appearance.md",
-    "0 Practical Knowledge/HOCR standard for OCR results.md",
-    "0 Practical Knowledge/Algorithmic composition in SuperCollider.md",
-    "1 Ideas/CNN layer activations to provide embeddings.md",
+    "1 Ideas/WAMI.md",
+    "3 My Ideas/Minimalist cold weather traveling packing.md",
+    "3 My Ideas/SIGBOVIK as a funny way to be published.md",
+    "0 Practical Knowledge/SIGBOVIK - association for computational heresy.md",
+    "3 My Ideas/balcony used as an extra storage space.md",
     "README.md",
-    "1 Ideas/The tertiary sector expansion is driven by information processing jobs.md",
-    "1 Ideas/semantic segmentation.md",
-    "0 Practical Knowledge/DeepLab for semantic segmentation.md",
-    "1 Ideas/Social metastable states.md"
+    "0 Practical Knowledge/There have been some attempts to extarct floor plans with computer vision.md",
+    "3 My Ideas/What the minimum apartment would look like.md",
+    "1 Ideas/The minimum is the new norm.md",
+    "0 Practical Knowledge/Fourier transform.md"
   ]
 }
