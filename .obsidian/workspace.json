@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "f8b1002d2e1febb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2be605cf5fd778d",
+        "type": "split",
+        "children": [
+          {
+            "id": "2614873154b43272",
+            "type": "tabs",
+            "dimension": 56.30252100840337,
+            "children": [
+              {
+                "id": "83f808ee1d2fa42c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 My Ideas/Balcony used as an extra storage space.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "51e50817b426b969",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 My Ideas/Optical flow based anomaly detection.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "af6cebf9bf9888b4",
+            "type": "tabs",
+            "dimension": 43.69747899159663,
+            "children": [
+              {
+                "id": "4df322a77764d470",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df9b17540df3b38a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d3d366f97bd1374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61d8689407886533",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcb972f0b134f0ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#OCR",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61beee85e6b354ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c82223ff699c30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235eec2fa4d88739",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 My Ideas/Optical flow based anomaly detection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08a01b65b0c854ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 My Ideas/Optical flow based anomaly detection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "61d8689407886533",
+  "lastOpenFiles": [
+    "3 My Ideas/Balcony used as an extra storage space.md",
+    "1 Ideas/WAMI.md",
+    "3 My Ideas/Minimalist cold weather traveling packing.md",
+    "3 My Ideas/SIGBOVIK as a funny way to be published.md",
+    "0 Practical Knowledge/SIGBOVIK - association for computational heresy.md",
+    "README.md",
+    "0 Practical Knowledge/There have been some attempts to extarct floor plans with computer vision.md",
+    "3 My Ideas/What the minimum apartment would look like.md",
+    "1 Ideas/The minimum is the new norm.md",
+    "0 Practical Knowledge/Fourier transform.md"
+  ]
+}
