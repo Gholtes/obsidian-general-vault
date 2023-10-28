@@ -1,0 +1,1 @@
+In time series data, exponential smoothing methods, such as Exponentially Weighted Moving Averages (EWMA), are used to estimate time-varying covariances. These methods assign exponentially decreasing weights to past observations.

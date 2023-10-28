@@ -1,0 +1,1 @@
+In cases where you want to assume that variables are uncorrelated, you can estimate a diagonal covariance matrix. This means that variances are estimated on the diagonal, but off-diagonal elements are set to zero.

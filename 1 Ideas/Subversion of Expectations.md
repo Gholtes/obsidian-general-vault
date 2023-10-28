@@ -1,0 +1,1 @@
+"**To behave contrary to an established belief or assumption for the purpose of being fresh and interesting**"

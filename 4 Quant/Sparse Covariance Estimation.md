@@ -1,0 +1,1 @@
+When dealing with high-dimensional data, methods like graphical lasso (L1 regularization) are used to estimate a sparse covariance matrix, assuming that most of the correlations are zero.

@@ -4,56 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "244531b3b1a1cb50",
-        "type": "split",
+        "id": "af6cebf9bf9888b4",
+        "type": "tabs",
         "children": [
           {
-            "id": "af6cebf9bf9888b4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4df322a77764d470",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              },
-              {
-                "id": "6c32b37ac6756309",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Making custom belts is cost effective.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "33c172742fda167a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           },
           {
-            "id": "11e8220ad1e96f73",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f2f15e321bd2c22e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
+            "id": "22be11e51cad62fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "262ffdabf1b5e157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Quant/Modeling Private Investment Cash Flows with Market-Sensitive Periodic Growth (2021).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4d369d9c3131adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Quant/Yield curve forecasting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,20 +83,28 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#routefinding",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "be4d91c4976c8407",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "61beee85e6b354ad",
@@ -111,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Making custom belts is cost effective.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Making custom belts is cost effective.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,17 +159,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6c32b37ac6756309",
+  "active": "22be11e51cad62fa",
   "lastOpenFiles": [
-    "0 Practical Knowledge/NVIDIA DeepStream.md",
-    "3 My Ideas/Tactile Control for smart lights.md",
-    "3 My Ideas/Building Speakers.md",
-    "3 My Ideas/Using Generative AI for industrial design & art.md",
+    "4 Quant/Takahashi Alexander unlisted asset model.md",
+    "4 Quant/Modeling Private Investment Cash Flows with Market-Sensitive Periodic Growth (2021).md",
+    "4 Quant/Yield curve forecasting.md",
+    "4 Quant/Unlisted Asset Modelling.md",
+    "1 Ideas/Principal Component Analysis (PCA).md",
+    "README.md",
+    "4 Quant/Factor Models for Covariance Matrix Estimation.md",
+    "4 Quant/Shrinkage estimators for covariance matrices.md",
+    "4 Quant/Robust Covariance Estimators.md",
+    "4 Quant/Diagonal (Homoscedastic) Covariance Matrix.md",
+    "4 Quant/Covariance matrix estimation.md",
+    "4 Quant/Constant correlation covariance matrix.md",
+    "4 Quant/Sparse Covariance Estimation.md",
+    "4 Quant/sample covariance matrix.md",
+    "4 Quant/Exponential smoothing Covariance Matrix Estimation.md",
+    "Sample co.md",
+    "4 Quant/ACM Model.md",
+    "4 Quant/Subsampling leaf variables as an optimisation in Monte-Carlo Simulations.md",
+    "4 Quant/Portfolio Optimisation.md",
+    "4 Quant/Capital Market Assumptions.md",
+    "4 Quant/Simulation of market returns.md",
+    "4 Quant/Monte Carlo simulation.md",
+    "4 Quant",
     "3 My Ideas/There is a lack of tools to measure the interiors of the built world.md",
-    "3 My Ideas/Reactive generative artwork.md",
-    "1 Ideas/Public APIs can be used to modulate a website's appearance.md",
-    "0 Practical Knowledge/SIGBOVIK - association for computational heresy.md",
-    "3 My Ideas/SIGBOVIK as a funny way to be published.md",
-    "3 My Ideas/Optical flow based anomaly detection.md"
+    "1 Ideas/The homes we inhabit impose constraints on our lives.md",
+    "1 Ideas/14,495 flats.md",
+    "1 Ideas/The minimum is the new norm.md",
+    "Untitled.canvas"
   ]
 }

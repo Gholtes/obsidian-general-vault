@@ -1,0 +1,1 @@
+Robust covariance estimators, such as the Minimum Covariance Determinant (MCD) or the Ledoit-Wolf Covariance Estimator, provide alternatives to standard sample covariance matrices. They are designed to be less sensitive to outliers in the data.
