@@ -27,4 +27,4 @@ These are combined as a weighted sum, with the final matrix being given by:
 
 
 ## Papers
-
+[[Honey, I Shrunk the Sample Covariance Matrix.pdf]]

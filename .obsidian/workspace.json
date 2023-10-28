@@ -52,9 +52,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ca8581cf041fdbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Quant/Factor Models for Covariance Matrix Estimation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8bd19d64c2c43dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Quant/Robust Covariance Estimators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8f05faca0722c77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Quant/Shrinkage estimators for covariance matrices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -120,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "4 Quant/Shrinkage estimators for covariance matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "4 Quant/Shrinkage estimators for covariance matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,19 +195,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "22be11e51cad62fa",
+  "active": "a8f05faca0722c77",
   "lastOpenFiles": [
-    "4 Quant/Takahashi Alexander unlisted asset model.md",
+    "papers/Honey, I Shrunk the Sample Covariance Matrix.pdf",
+    "papers/Unconfirmed 468918.crdownload",
+    "4 Quant/Factor Models for Covariance Matrix Estimation.md",
+    "4 Quant/Robust Covariance Estimators.md",
     "4 Quant/Modeling Private Investment Cash Flows with Market-Sensitive Periodic Growth (2021).md",
+    "4 Quant/Monte Carlo simulation.md",
+    "papers/HIGH-DIMENSIONAL COVARIANCE MATRIX ESTIMATION IN APPROXIMATE FACTOR MODELS.pdf",
+    "papers/COVARIANCE REGULARIZATION BY THRESHOLDING.pdf",
+    "papers/Modeling Private Investment Cash Flows with Market-Sensitive Periodic Growth.pdf",
+    "papers/Unconfirmed 659967.crdownload",
+    "papers",
     "4 Quant/Yield curve forecasting.md",
+    "4 Quant/Covariance matrix estimation.md",
+    "README.md",
+    "1 Ideas/Academic language is becoming more homogenous.md",
+    "4 Quant/Takahashi Alexander unlisted asset model.md",
     "4 Quant/Unlisted Asset Modelling.md",
     "1 Ideas/Principal Component Analysis (PCA).md",
-    "README.md",
-    "4 Quant/Factor Models for Covariance Matrix Estimation.md",
     "4 Quant/Shrinkage estimators for covariance matrices.md",
-    "4 Quant/Robust Covariance Estimators.md",
     "4 Quant/Diagonal (Homoscedastic) Covariance Matrix.md",
-    "4 Quant/Covariance matrix estimation.md",
     "4 Quant/Constant correlation covariance matrix.md",
     "4 Quant/Sparse Covariance Estimation.md",
     "4 Quant/sample covariance matrix.md",
@@ -182,12 +227,9 @@
     "4 Quant/Portfolio Optimisation.md",
     "4 Quant/Capital Market Assumptions.md",
     "4 Quant/Simulation of market returns.md",
-    "4 Quant/Monte Carlo simulation.md",
     "4 Quant",
     "3 My Ideas/There is a lack of tools to measure the interiors of the built world.md",
     "1 Ideas/The homes we inhabit impose constraints on our lives.md",
-    "1 Ideas/14,495 flats.md",
-    "1 Ideas/The minimum is the new norm.md",
     "Untitled.canvas"
   ]
 }

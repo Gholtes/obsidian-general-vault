@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"1 Ideas\"",
@@ -46,6 +46,6 @@
   "repelStrength": 11.2779017857143,
   "linkStrength": 1,
   "linkDistance": 209,
-  "scale": 0.7504215141818186,
-  "close": false
+  "scale": 0.7814737643250584,
+  "close": true
 }
