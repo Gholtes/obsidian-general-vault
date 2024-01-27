@@ -18,12 +18,48 @@
             }
           },
           {
-            "id": "39376f67c7a1b570",
+            "id": "4818c049a6e1ead9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Write up ideas/Analysis of covariance matrix estimation techniques in the context of portfolio optimisation..md",
+                "file": "4 Quant/Portfolio Optimisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ea840ff96b41eca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Completed write ups/VAR Model with steady state prior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff5d6733527e4e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Quant/Monte Carlo Portfolio Optimisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a31537dd82cba5c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Quant/Asset allocation forecasts.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,41 +170,42 @@
   },
   "active": "33c172742fda167a",
   "lastOpenFiles": [
-    "5 Write up ideas/Analysis of covariance matrix estimation techniques in the context of portfolio optimisation..md",
-    "5 Write up ideas/Build a factor risk model from scratch.md",
-    "4 Quant/Factor Analysis.md",
+    "4 Quant/Monte Carlo Portfolio Optimisation.md",
+    "4 Quant/Asset allocation forecasts.md",
+    "4 Quant/ACM Model.md",
+    "4 Quant/Portfolio Optimisation.md",
+    "4 Quant/Simulation of asset returns.md",
+    "4 Quant/Simulation of market returns.md",
+    "Completed write ups/VAR Model with steady state prior.md",
+    "Portfolio Optimisation.md",
+    "Completed write ups/Analysis of covariance matrix estimation techniques in the context of portfolio optimisation..md",
+    "4 Quant/GARCH (Generalized Autoregressive Conditional Heteroskedasticity) model.md",
+    "4 Quant/Forward interest rates.md",
+    "1 Ideas/Computer Vision for Technical Analysis.md",
+    "4 Quant/Yield curve forecasting.md",
     "5 Write up ideas/Investigation into the impact of the covariance matrix used in the PCA of the ACM model on the term premium results..md",
-    "0 Practical Knowledge/HOCR standard for OCR results.md",
-    "5 Write up ideas/Unlisted asset model extension.md",
-    "5 Write up ideas/Issues with using PCA to create factors.md",
+    "Completed write ups/PCA reliability tests.md",
+    "Completed write ups/How to compute historical returns for portfolio analysis..md",
+    "5 Write up ideas/Bayesian VAR Models.md",
+    "5 Write up ideas/Build a factor risk model from scratch.md",
+    "Untitled",
     "5 Write up ideas/Covariance calculation on time series data with missing values.md",
-    "3 My Ideas/SIGBOVIK as a funny way to be published.md",
-    "4 Quant/Factor Models for Covariance Matrix Estimation.md",
+    "Completed write ups/Issues with using PCA to create factors.md",
+    "5 Write up ideas/Unlisted asset model extension.md",
+    "Completed write ups",
+    "4 Quant/Subsampling leaf variables as an optimisation in Monte-Carlo Simulations.md",
+    "4 Quant/Monte Carlo simulation.md",
+    "4 Quant/Sparse Covariance Estimation.md",
+    "4 Quant/Covariance matrix estimation.md",
+    "4 Quant/Robust Covariance Estimators.md",
     "5 Write up ideas",
-    "README.md",
-    "4 Quant/Modeling Private Investment Cash Flows with Market-Sensitive Periodic Growth (2021).md",
-    "4 Quant/Shrinkage estimators for covariance matrices.md",
     "papers/Honey, I Shrunk the Sample Covariance Matrix.pdf",
     "papers/Unconfirmed 468918.crdownload",
-    "4 Quant/Robust Covariance Estimators.md",
-    "4 Quant/Monte Carlo simulation.md",
     "papers/HIGH-DIMENSIONAL COVARIANCE MATRIX ESTIMATION IN APPROXIMATE FACTOR MODELS.pdf",
     "papers/COVARIANCE REGULARIZATION BY THRESHOLDING.pdf",
     "papers/Modeling Private Investment Cash Flows with Market-Sensitive Periodic Growth.pdf",
     "papers/Unconfirmed 659967.crdownload",
     "papers",
-    "4 Quant/Yield curve forecasting.md",
-    "4 Quant/Covariance matrix estimation.md",
-    "1 Ideas/Academic language is becoming more homogenous.md",
-    "4 Quant/Takahashi Alexander unlisted asset model.md",
-    "4 Quant/Unlisted Asset Modelling.md",
-    "1 Ideas/Principal Component Analysis (PCA).md",
-    "4 Quant/Diagonal (Homoscedastic) Covariance Matrix.md",
-    "4 Quant/Constant correlation covariance matrix.md",
-    "4 Quant/Sparse Covariance Estimation.md",
-    "4 Quant/sample covariance matrix.md",
-    "4 Quant/Exponential smoothing Covariance Matrix Estimation.md",
-    "4 Quant",
     "Untitled.canvas"
   ]
 }

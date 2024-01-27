@@ -1,0 +1,1 @@
+Extends on [[VAR Model with steady state prior]]

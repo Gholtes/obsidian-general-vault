@@ -1,0 +1,3 @@
+A paper used #computervision models (just a simple [[CNN]] model) to predict stock prices based on graphs of price and volume, with surprisingly ok results...
+
+Could be an interesting paper replication or entry into [[SIGBOVIK - association for computational heresy]]

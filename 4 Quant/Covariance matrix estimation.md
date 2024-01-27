@@ -12,5 +12,5 @@ Methods:
 9. [[Sparse Covariance Estimation]]
 
 Used by:
-- [[Portfolio Optimisation]]
+- [[4 Quant/Portfolio Optimisation]]
 - [[Capital Market Assumptions]]

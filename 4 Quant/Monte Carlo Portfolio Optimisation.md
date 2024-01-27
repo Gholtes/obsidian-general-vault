@@ -1,0 +1,3 @@
+This method of [[Portfolio Optimisation]] uses a [[Monte Carlo simulation]] of asset returns to provide an input to the optimisation process. This allows the optimisation process to be decoupled from the definition of the returns distribution, which allows arbitrary returns distributions to be used without needing to account for higher moments of the distribution or change the optimiser to better suit the distribution in question. 
+
+This method requires a way to generate the simulated returns, see [[Simulation of asset returns]]

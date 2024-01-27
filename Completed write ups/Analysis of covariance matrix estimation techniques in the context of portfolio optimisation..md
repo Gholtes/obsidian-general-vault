@@ -6,5 +6,5 @@ Structure:
 4. Quantitive analysis:
 	1. Gather data on a range of asset classes and iterate over time. Each month:
 	2. Estimate the correlation matrix with each method
-	3. Estimate an optimal portfolio with [[Portfolio Optimisation]]
+	3. Estimate an optimal portfolio with [[4 Quant/Portfolio Optimisation]]
 	4. Compute returns for the month

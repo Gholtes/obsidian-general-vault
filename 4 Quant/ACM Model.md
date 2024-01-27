@@ -7,3 +7,7 @@ https://www.newyorkfed.org/research/data_indicators/term-premia-tabs#/overview
 
 ## Python implementation:
 https://github.com/miabrahams/PricingTermStructure
+
+## Related topics
+[[Principal Component Analysis (PCA)]]
+[[Forward interest rates]]
